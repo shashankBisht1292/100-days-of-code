@@ -1,0 +1,12 @@
+# Files/Folders that should be ignored anywhere in the repo
+# IDE/OS generated files:
+.idea/
+*.iml
+misc.xml
+.DS_Store
+
+# Python generated files:
+venv/
+env/
+__pycache__/
+*.pyc
